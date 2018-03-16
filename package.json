@@ -1,0 +1,19 @@
+{
+  "name": "owntract-mongo",
+  "version": "1.0.0",
+  "description": "store my tracking data to mongodb",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "dotenv": "^5.0.1",
+    "moment": "^2.20.1",
+    "mongodb": "^2.2.34",
+    "mqtt": "^2.15.3"
+  }
+}
